@@ -4,15 +4,15 @@ Shopping Cart App with React and Redux
 
 A simple shopping cart app built with React and Redux to manage and display a list of products, add them to a shopping cart, and calculate the total cost.
 
-Table of Contents
-        Features
-        Demo
-        Getting Started
-        Prerequisites
-        Installation
-        Usage
-        Contributing
-        Features
+Table of Contents:
+               1. Features
+               2. Demo
+               3. Getting Started
+               4. Prerequisites
+               5. Installation
+               6. Usage
+               7. Contributing
+               8. Features
 View a list of products with details (name, price, image).
 Add products to a shopping cart.
 Adjust product quantities in the cart.
@@ -36,7 +36,7 @@ Node.js: Download and Install Node.js
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/shopping-cart-app.git
+git clone https://github.com/SagarChau750/Shopping-Cart-Website.git
 
 Navigate to the project directory:
 cd shopping-cart-app
@@ -53,6 +53,7 @@ Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the project.
+
 Create a new branch for your feature or bug fix: git checkout -b feature-name.
 Make your changes and commit them: git commit -m 'Add new feature'.
 Push to the branch: git push origin feature-name.
